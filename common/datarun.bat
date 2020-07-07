@@ -1,0 +1,1 @@
+codecreater.exe -path common/data -type data

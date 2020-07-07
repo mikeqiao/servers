@@ -1,0 +1,22 @@
+{
+	"User":
+	{
+		"Name":"string",
+		"Uid":"uint64",
+		"Level":"uint32",
+		"Vip":"uint32"
+	},
+	"DataUList":
+	{
+		"Uid":"uint64",
+		"Lang":"string",
+		"Name2":"string",
+		"Name3":"string",
+		"UserList":"map[uint64]*User",
+		"MySData":"map[uint64]uint32"
+	},
+	"UpdateUser":
+	{
+		"data":"*DataUList"
+	}
+}

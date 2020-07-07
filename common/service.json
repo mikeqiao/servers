@@ -1,0 +1,15 @@
+{
+	"ManagerMod":
+	{
+		"ServerStart":
+		{
+			"Req":"req",
+			"Res":"res"
+		},
+		"ServerStop":
+		{
+			"Req":"req",
+			"Res":"res"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"LenStackBuf":4096,
+	"LogLevel": "debug",
+	"LogPath": "../log/",
+	"LogFlag": 0,
+	"Redis":
+	{
+		"Host":"192.168.1.249",
+		"Port":"6380",
+		"Password": "123456",
+		"Count":100,
+		"Life":30
+	},
+	"SInfo":
+	{
+		"Uid": 1001,
+		"Name":"ManagerServer"
+	},
+	"Servers":
+	[
+		{
+			"Uid": 8101,
+			"Name": "Manager",
+			"ListenAddr": "0.0.0.0:8101"
+		}
+	]
+	
+}

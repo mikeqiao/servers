@@ -1,0 +1,12 @@
+[debug  ] invalid ConnectInterval, reset to 3s
+[debug  ] server is start
+[debug  ] invalid ConnectInterval, reset to 3s
+[debug  ] server is start
+[debug  ] invalid ConnectInterval, reset to 3s
+[debug  ] server is start
+[debug  ] invalid ConnectInterval, reset to 3s
+[debug  ] server is start
+[debug  ] invalid ConnectInterval, reset to 3s
+[debug  ] server is start
+2020-07-07 11:45:31.654557 C:/Users/Thinkpad/go/pkg/mod/github.com/mikeqiao/newworld@v0.0.0-20200707034333-7ebf25071d6f/manager/clientmanager.go	line:22:[debug  ] invalid ConnectInterval, reset to 3s
+2020-07-07 11:45:31.655556 C:/Users/Thinkpad/go/pkg/mod/github.com/mikeqiao/newworld@v0.0.0-20200707034333-7ebf25071d6f/world.go	line:34:[debug  ] server is start
